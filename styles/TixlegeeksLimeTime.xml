@@ -13,7 +13,7 @@
   <style name="def:boolean"	foreground="#8ae234" />
   <style name="def:builtin"	foreground="#ae81ff" />
   <style name="def:character"	foreground="#ae81ff" />
-  <style name="def:comment"	foreground="#8ae234" />
+  <style name="def:comment"	foreground="#73d216" />
   <style name="def:complex"	foreground="#ae81ff" />
   <style name="def:decimal"	foreground="#ae81ff" />
   <style name="def:doc-comment"	foreground="#4e9a06" />
@@ -67,12 +67,21 @@
   <style name="rubyonrails:special-variable"	foreground="#f92672" />
   <style name="rubyonrails:symbol"	foreground="#ae81ff" />
   <style name="search-match"	background="#3e3d32" bold="true" underline="true" />
-  <style name="selection"	foreground="#f8f8f2" background="#49483e" />
-  <style name="text"	foreground="#d3d7cf" background="#272822" />
+  <style name="selection"	foreground="#f8f8f2" background="#204a87" />
+  <style name="text"	foreground="#eeeeec" background="#272822" />
   <style name="xml:attribute-name"	foreground="#a6e22e" />
   <style name="xml:element-name"	foreground="#f92672" />
   <style name="xml:namespace"	foreground="#f92672" />
   <style name="xml:tag"	foreground="#f92672" />
   <style name="js:boolean"	foreground="#8ae234" />
   <style name="js:constructors"	foreground="#fcaf3e" />
+  <style name="js:keyword"	foreground="#f92672" />
+  <style name="js:null-value"	foreground="#ef2929" background="#555753" />
+  <style name="js:properties"	foreground="#5c3566" />
+  <style name="js:string"	foreground="#fcaf3e" />
+  <style name="js:type"	foreground="#3465a4" />
+  <style name="js:undefined-value"	foreground="#ef2929" />
+  <style name="js:escape"	foreground="#ad7fa8" />
+  <style name="constant"	foreground="#888a85" />
+  <style name="js:future-words"	foreground="#729fcf" />
 </style-scheme>
